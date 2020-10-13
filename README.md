@@ -1,1 +1,1 @@
-RNA-Seq Analysis of two samples in order to compare the differential expressed genes
+RNA-Seq Analysis of two samples in order to perform differential expression analysis and gene enrichment analysis 
